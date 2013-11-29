@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Neohelper::VERSION
   spec.authors       = ["Javad Karabi"]
   spec.email         = ["karabijavad@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Helper functions for working with neo4j}
+  spec.summary       = %q{Helper functions for working with neo4j}
   spec.homepage      = ""
   spec.license       = "MIT"
 
